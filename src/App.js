@@ -42,8 +42,8 @@ function App() {
   function resetResult(e) { 
   	// Add the code for the resetResult function 
     e.preventDefault(); 
-    // setResult((preValue) => preValue * 0);
-    setResult(0)
+    setResult((preValue) => preValue * 0);
+    // setResult(0)
   }; 
  
   return ( 
