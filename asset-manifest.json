@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactlab_react_basic/static/css/main.4ee91bd1.css",
+    "main.js": "/reactlab_react_basic/static/js/main.c0356fc4.js",
+    "index.html": "/reactlab_react_basic/index.html",
+    "main.4ee91bd1.css.map": "/reactlab_react_basic/static/css/main.4ee91bd1.css.map",
+    "main.c0356fc4.js.map": "/reactlab_react_basic/static/js/main.c0356fc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee91bd1.css",
+    "static/js/main.c0356fc4.js"
+  ]
+}
